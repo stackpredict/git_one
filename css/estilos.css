@@ -1,5 +1,7 @@
 /*estlos botton WS */
-
+img {
+  background-image: url(../img/TRAINING-RCP-01.jpg);
+}
 .btn-wsp {
   position: fixed;
   width: 60px;
