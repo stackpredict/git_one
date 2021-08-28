@@ -1,7 +1,5 @@
 /*estlos botton WS */
-img {
-  background-image: url(../img/TRAINING-RCP-01.jpg);
-}
+
 .btn-wsp {
   position: fixed;
   width: 60px;
@@ -30,7 +28,5 @@ img {
 }
 /* rama 2*/
 body {
-  background-color: coral;
-  font-family: "Courier New", Courier, monospace;
-  font-size: 16px;
+  background-image: url(../img/TRAINING-RCP-01.jpg);
 }
